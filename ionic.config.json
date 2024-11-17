@@ -1,0 +1,7 @@
+{
+  "name": "receiptGenerator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
